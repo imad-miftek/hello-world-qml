@@ -1,0 +1,2 @@
+module QmlIntegration
+main 1.0 main.qml
